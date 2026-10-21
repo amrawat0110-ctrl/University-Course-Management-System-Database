@@ -176,6 +176,13 @@ University-CMS-SQL/
 
 ---
 
+
+## 🎥 Project Explanation Video
+
+[Click Here to Watch Video](https://drive.google.com/file/d/1zLL4FoUSaGtVi_pF6qJIGDF1I9TmmLm5/view?usp=sharing)
+
+[Click Here to Watch Video](https://drive.google.com/file/d/1gZEi6ISoknK6Tw4SjEPu7bfHh-46PLdu/view?usp=sharing)
+   
 **Author:** Armin Khareghat
 
 **Project type:** SQL Database Management  
